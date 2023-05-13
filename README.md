@@ -1,11 +1,9 @@
 # ポートフォリオ
 
-## AWSでアプリケーション環境の構築
+## AWS
+1. AWSでRailsアプリケーションを構築
+   → [AWS-Rails](AWS-Rails/README.md)  
 
 
-## AWSでRailsアプリケーションを構築
-[CloudFormation](AWS-Rails/README.md)  
-
-
-## CloudFormationを使った構築
-[CloudFormation](CloudFormation/README.md)  
+2. CloudFormationを使った構築
+   → [CloudFormation](CloudFormation/README.md)  
