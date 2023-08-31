@@ -69,6 +69,6 @@
 
 ### その他
 作成したソースコード格納先  
-[Network](../source/Network-properties.yml)  
-[Security](../source/Security-properties.yml)  
-[Application](../source/App-properties.yml)  
+[Network](source/Network-properties.yml)  
+[Security](source/Security-properties.yml)  
+[Application](source/App-properties.yml)  
