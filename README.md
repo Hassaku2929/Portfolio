@@ -10,7 +10,7 @@
 
 ## Python
 1. 計算機  
-   [ソースコード](Python/Calculation/Calculation.py)
+   [ソースコード](Python/Calculation/Calculation.py)  
    ![Calculatin](Python/Calculation/img/Calculatin.png)
 
 2. マップ作成ツール  
@@ -23,5 +23,5 @@
    ![マップ作成ツール（ヒートマップ）](Python/Map/img/Japanmap.png)  
 
 3. Web-Scraping  
-   [ソースコード](Python/Web-Scraping/Google_search-checkpoint.ipynb)  
-   [出力結果](Python/Web-Scraping/Google_search_result-checkpoint.csv)  
+   → [ソースコード](Python/Web-Scraping/Google_search-checkpoint.ipynb)  
+   → [出力結果](Python/Web-Scraping/Google_search_result-checkpoint.csv)  
